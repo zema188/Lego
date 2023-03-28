@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 135.5 80.62">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: url(#_Áåçûìÿííûé_ãðàäèåíò_290-2);
+      }
+
+      .cls-2, .cls-3 {
+        mix-blend-mode: screen;
+      }
+
+      .cls-4 {
+        isolation: isolate;
+      }
+
+      .cls-5 {
+        fill: url(#_Áåçûìÿííûé_ãðàäèåíò_298);
+      }
+
+      .cls-3 {
+        fill: url(#_Áåçûìÿííûé_ãðàäèåíò_290);
+        opacity: .66;
+      }
+
+      .cls-6 {
+        opacity: .77;
+      }
+    </style>
+    <linearGradient id="_Áåçûìÿííûé_ãðàäèåíò_298" data-name="Áåçûìÿííûé ãðàäèåíò 298" x1="0" y1="37.9" x2="135.49" y2="37.9" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#302f34"/>
+      <stop offset=".24" stop-color="#67676e"/>
+      <stop offset=".7" stop-color="#434247"/>
+      <stop offset=".88" stop-color="#79787e"/>
+      <stop offset="1" stop-color="#1c1c21"/>
+    </linearGradient>
+    <radialGradient id="_Áåçûìÿííûé_ãðàäèåíò_290" data-name="Áåçûìÿííûé ãðàäèåíò 290" cx="75.24" cy="-455860.86" fx="75.24" fy="-455860.86" r="42.72" gradientTransform="translate(-47.28 2234.38) scale(1.53 0)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#000"/>
+    </radialGradient>
+    <radialGradient id="_Áåçûìÿííûé_ãðàäèåíò_290-2" data-name="Áåçûìÿííûé ãðàäèåíò 290" cx="75.24" cy="-433086.48" fx="75.24" fy="-433086.48" r="42.78" gradientTransform="translate(-47.28 2672.94) scale(1.53 0)" xlink:href="#_Áåçûìÿííûé_ãðàäèåíò_290"/>
+  </defs>
+  <g class="cls-4">
+    <g id="_Слой_2" data-name="Слой 2">
+      <g id="_Ñëîé_1" data-name="Ñëîé 1">
+        <g>
+          <image width="73" height="15" transform="translate(31.82 66)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEkAAAAPCAYAAACocuKtAAAACXBIWXMAAAsSAAALEgHS3X78AAABR0lEQVRYhe1XO46DMBB95iNACjeg4g5I3IIT0NBRpk9JSYMoaDkXBRWcgI6fV2YTQ4DsbiJlFQk/aaTBA2PzNLbfEAAYhoFalgXP83ADIeStPv5hjmf8JEkwjiOyLENRFIiiaE5k2zY1TZMCuNlRwTlgfFwuF86FUlUV2radSD0wQVj+P6WUOo4zR06n05GrZxeapt121wRpfU4IYNpZ7HzyfX8iSmqaRtCyAqWUDMPAB6UPWdfHgVVS13XTsgRJDyAq6Q8QJP0OdrvNL8myLCTAFncSAIZhLBW3wFV1x3HM+SBpmtLz+QxFUaCqKlzXhSRJG2N6am98Gavr+jspIdze/fzMHH3f38Ww6N3yPOf1Yds2yrLkApI74zjSMAwnIbVOsPR/Gru2N5tv9vBq7NW87Dp/RCIztnbWiui6jiAIhMJ+CgC+APt9dKLX3XigAAAAAElFTkSuQmCC"/>
+          <g>
+            <path d="M135.16,73.1c0,1.32-1.09,2.39-2.41,2.36-10.25-.21-50.35-1.01-65-1.01s-54.75,.8-65,1.01c-1.32,.03-2.41-1.04-2.41-2.36V2.7C.34,1.39,1.41,.33,2.72,.34c10.21,.09,50.37,.43,65.03,.43s54.82-.34,65.03-.43c1.31-.01,2.38,1.05,2.38,2.36V73.1Z"/>
+            <path class="cls-5" d="M2.7,75.8c-.71,0-1.38-.27-1.89-.77-.52-.51-.81-1.2-.81-1.93V2.7C0,1.98,.28,1.29,.8,.78c.51-.51,1.18-.78,1.9-.78h.02C14.33,.1,53.31,.43,67.75,.43s53.42-.33,65.02-.43h.02c.72,0,1.39,.28,1.9,.78,.52,.51,.8,1.19,.8,1.92V73.1c0,.73-.29,1.42-.81,1.93-.52,.51-1.21,.78-1.95,.77-11.59-.24-50.55-1.01-64.99-1.01s-53.4,.77-64.99,1.01c-.02,0-.04,0-.06,0Zm65.05-1.68c14.45,0,53.41,.77,65,1.01,.55,.01,1.07-.19,1.46-.58,.39-.38,.61-.9,.61-1.45V2.7c0-.55-.21-1.06-.6-1.44-.39-.38-.89-.6-1.44-.59-11.6,.1-50.58,.43-65.03,.43S14.32,.77,2.72,.67h-.02c-.54,0-1.04,.21-1.43,.59-.39,.38-.6,.9-.6,1.44V73.1c0,.55,.22,1.06,.61,1.45,.39,.38,.91,.6,1.46,.58,11.6-.24,50.55-1.01,65-1.01Z"/>
+            <ellipse class="cls-3" cx="67.6" cy=".67" rx="65.29" ry=".21"/>
+            <g class="cls-6">
+              <path class="cls-1" d="M120.39,75.44l11.1,.19s4.01,.5,4.01-2.58v-8.65l-.18,2.19-.07,2.27-.09-.56v5.03s-.29,1.85-2.01,1.91c-1.69,.06-6.2-.02-6.2-.02l-6.56,.23Z"/>
+              <path class="cls-1" d="M15.31,.34L4.21,.15S.2-.35,.2,2.73V11.38l.18-2.19,.07-2.27,.09,.56V2.46S.82,.61,2.55,.55c1.69-.06,6.2,.02,6.2,.02l6.56-.23Z"/>
+              <polygon class="cls-1" points=".17 57.53 .17 65.87 .34 68.82 .48 64.86 .33 50.03 .17 57.53"/>
+              <path class="cls-1" d="M.17,72.82s-.1,1.73,.97,2.29c1.07,.56,1.5,.52,2.3,.52s6.53-.16,6.53-.16l-7.26-.19s-1.73,.27-2.54-2.46Z"/>
+            </g>
+          </g>
+          <path class="cls-2" d="M132.89,74.42c0,.14-29.23,.26-65.29,.26s-65.29-.12-65.29-.26,29.23-.26,65.29-.26,65.29,.11,65.29,.26Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
